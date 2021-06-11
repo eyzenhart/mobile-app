@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798469043825",
+    "project_id": "booking-dev-2791a",
+    "storage_bucket": "booking-dev-2791a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798469043825:android:e2c19f89d204760fc84dd0",
+        "android_client_info": {
+          "package_name": "com.booking.king"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798469043825-n7m35cnsa1lbri220b3au3hasg6hvh4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPuyn-PFULQ6EC3oib6FecDg1ePl7QXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798469043825-n7m35cnsa1lbri220b3au3hasg6hvh4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
